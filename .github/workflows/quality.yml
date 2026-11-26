@@ -31,7 +31,7 @@ jobs:
           tools: composer:v2
 
       - name: Validate Composer configuration
-        run: composer validate --no-check-publish
+        run: composer validate --strict
 
       - name: Install dependencies
         run: composer install --no-interaction --prefer-dist
