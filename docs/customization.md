@@ -8,7 +8,7 @@ The current matrix checks PHP 8.1 through 8.4. Keep this matrix aligned with the
 
 ## Coding standards
 
-`phpcs.xml.dist` combines WordPress Coding Standards with PHPCompatibilityWP. Adjust the ruleset to match the plugin's conventions, but avoid disabling rules globally to make CI pass.
+`phpcs.xml.dist` combines WordPress Coding Standards with the PHPCompatibility standard. Adjust the ruleset to match the plugin's conventions, but avoid disabling rules globally to make CI pass.
 
 ## Release workflow
 
