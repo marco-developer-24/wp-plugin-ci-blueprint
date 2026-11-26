@@ -9,7 +9,7 @@ This repository provides a baseline you can copy into a plugin project and adapt
 - **GitHub Actions** — quality checks on pushes, pull requests, and manual runs.
 - **PHP matrix** — checks PHP 8.1, 8.2, 8.3, and 8.4.
 - **PHPCS + WordPress Coding Standards** — consistent code-style checks.
-- **PHPCompatibilityWP** — detects use of PHP features outside the configured compatibility target.
+- **PHPCompatibility** — detects use of PHP features outside the configured compatibility target.
 - **PHPUnit 10** — a minimal test setup and runtime smoke test.
 - **Release packaging** — creates a ZIP when a `v*` tag is pushed.
 - **Distribution exclusions** — Git archive rules keep development files out of the release ZIP.
