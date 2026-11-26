@@ -1,0 +1,7 @@
+/vendor/
+/.phpunit.cache/
+/.wpcs-cache/
+*.log
+.DS_Store
+Thumbs.db
+/build/
